@@ -1,1 +1,1 @@
-Pequeños fragmentos sencillos de código con una finalidad instructiva.
+Pequeños fragmentos sencillos de código con una finalidad pedagógica.
